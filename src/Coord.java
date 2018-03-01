@@ -1,4 +1,4 @@
-public class Pos {
+public class Coord {
 
 
 	int x;
